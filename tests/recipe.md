@@ -2,7 +2,7 @@
 
 As an admin
 So that I can determine whether a user is old enough
-I want to allow them to enter their date of birth as a string in the format `YYYY-MM-DD`.
+I want to allow them to enter their date of birth as a string in the format `YYYY-MM-DD`
 
 As an admin
 So that under-age users can be denied entry
@@ -26,9 +26,9 @@ _Include the name of the function, its parameters, return value, and side effect
 
 def check_birthday(name, birthday):
     """Check if the user is old enough(16 years old) and grant access or deny
-    
+
     """
-    pass 
+    pass
 ```
 
 ## 3. Create Examples as Tests
