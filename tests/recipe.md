@@ -26,9 +26,9 @@ _Include the name of the function, its parameters, return value, and side effect
 
 def check_birthday(name, birthday):
     """Check if the user is old enough(16 years old) and grant access or deny
-    
+
     """
-    pass 
+    pass
 ```
 
 ## 3. Create Examples as Tests
