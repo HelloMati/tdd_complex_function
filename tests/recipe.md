@@ -2,7 +2,7 @@
 
 As an admin
 So that I can determine whether a user is old enough
-I want to allow them to enter their date of birth as a string in the format `YYYY-MM-DD`.
+I want to allow them to enter their date of birth as a string in the format `YYYY-MM-DD`
 
 As an admin
 So that under-age users can be denied entry

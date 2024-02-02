@@ -7,3 +7,6 @@ def test_check_birthday_old_enough():
 def test_check_birthday_not_old_enough():
     result = check_birthday("2020-02-16")
     assert result == "Access denied"
+
+
+    
